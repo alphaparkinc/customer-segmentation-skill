@@ -1,8 +1,8 @@
 {
   "name": "customer-segmentation-skill",
   "version": "1.0.0",
-  "description": "Segment e-commerce customers into behavioral groups using K-means clustering on RFM features. Returns labeled segments with actionable marketing strategies.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Segment e-commerce customers into behavioral groups using K-means clustering on RFM features. Returns labeled segments with actionable marketing strategies.",
+  "author": "genpark",
   "category": "analytics",
   "tags": [
     "segmentation",
