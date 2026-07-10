@@ -1,5 +1,5 @@
 {
-  "name": "customer-segmentation-skill",
+  "name": "genpark-customer-segmentation-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Segment e-commerce customers into behavioral groups using K-means clustering on RFM features. Returns labeled segments with actionable marketing strategies.",
   "author": "genpark",
